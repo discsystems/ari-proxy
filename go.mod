@@ -8,7 +8,7 @@ require (
 	github.com/inconshreveable/log15 v2.16.0+incompatible
 	github.com/nats-io/nats.go v1.28.0
 	github.com/pelletier/go-toml/v2 v2.1.0 // indirect
-	github.com/rabbitmq/amqp091-go v1.8.1
+	github.com/rabbitmq/amqp091-go v1.13.0
 	github.com/rotisserie/eris v0.5.4
 	github.com/spf13/afero v1.9.5 // indirect
 	github.com/spf13/cobra v1.7.0
